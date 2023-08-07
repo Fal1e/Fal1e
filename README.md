@@ -2,7 +2,7 @@
 - 👀 Я занимаюсь GLua языком
 - 🌱 Так-же работаю в Hammer Editor
 - 💞️ Garry's Mod
-- 📫 Связи со мною: ( Discord: Святой Fal1e#9068 ) | ( Steam: https://steamcommunity.com/id/Fal1e_Official/ )
+- 📫 Связи со мною: ( Discord: fal1e ) | ( Steam: https://steamcommunity.com/id/Fal1e_Official/ )
 
 <!---
 Fal1e/Fal1e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
