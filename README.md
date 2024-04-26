@@ -1,8 +1,9 @@
 - 👋 Здравствуйте, дамы и господа. Меня звать: @Fal1e
-- 👀 Я занимаюсь GLua языком
-- 🌱 Так-же работаю в Hammer Editor
-- 💞️ Garry's Mod
-- 📫 Связи со мною: ( Discord: fal1e ) | ( Steam: https://steamcommunity.com/id/Fal1e_Official/ )
+- 👀 Lua / C#
+- 💞️ Garry's Mod / Unity
+- 📫 Связи со мной: ( Discord: fal1e ) | ( Steam: https://steamcommunity.com/id/Fal1e_Official/ )
+
+-  Нынешний Project - FrostCore: Arctic
 
 <!---
 Fal1e/Fal1e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
