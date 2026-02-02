@@ -1,6 +1,6 @@
-- 👋 Здравствуйте, дамы и господа. Меня звать: @Fal1e
+- 👋 @Fal1e
 - 👀 Lua / C++
-- 📫 Связи со мной: ( Discord: fal1e ) | ( Steam: https://steamcommunity.com/id/Fal1e_Official/ )
+- 📫 Socials: ( Discord: fal1e ) | ( Steam: https://steamcommunity.com/id/Fal1e_Official/ )
 
 <!---
 Fal1e/Fal1e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
