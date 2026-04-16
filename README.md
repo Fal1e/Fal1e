@@ -1,5 +1,5 @@
 - 👋 @Fal1e
-- 👀 Lua / C++
+- 👀 Lua / C++ / C#
 - 📫 Socials: ( Discord: fal1e ) | ( Steam: https://steamcommunity.com/id/Fal1e_Official/ )
 
 <!---
